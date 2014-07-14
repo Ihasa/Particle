@@ -1,0 +1,75 @@
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Test3\Test3\Test3\bin\x86\Debug\Content\particle.xnb
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Test3\Test3\Test3\bin\x86\Debug\Test3.exe
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Test3\Test3\Test3\bin\x86\Debug\Test3.pdb
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Test3\Test3\Test3\bin\x86\Debug\VisualEffects.dll
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Test3\Test3\Test3\bin\x86\Debug\VisualEffects.pdb
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Test3\Test3\Test3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Test3\Test3\Test3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Test3\Test3\Test3\obj\x86\Debug\Test3.exe
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Test3\Test3\Test3\obj\x86\Debug\Test3.pdb
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Test3\Test3\Test3\bin\x86\Debug\Content\down.xnb
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Test3\Test3\Test3\bin\x86\Debug\Content\up.xnb
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Test3\Test3\Test3\bin\x86\Debug\Content\Font.xnb
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Test3\Test3\Test3\bin\x86\Debug\Content\button.xnb
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Test3\Test3\Test3\bin\x86\Debug\Content\pix.xnb
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Test3\Test3\Test3\bin\x86\Debug\Content\down2.xnb
+C:\Users\Toshi332\Dropbox\Test3\Test3\Test3\bin\x86\Debug\Content\particle.xnb
+C:\Users\Toshi332\Dropbox\Test3\Test3\Test3\bin\x86\Debug\Content\down.xnb
+C:\Users\Toshi332\Dropbox\Test3\Test3\Test3\bin\x86\Debug\Content\up.xnb
+C:\Users\Toshi332\Dropbox\Test3\Test3\Test3\bin\x86\Debug\Content\pix.xnb
+C:\Users\Toshi332\Dropbox\Test3\Test3\Test3\bin\x86\Debug\Content\button.xnb
+C:\Users\Toshi332\Dropbox\Test3\Test3\Test3\bin\x86\Debug\Content\down2.xnb
+C:\Users\Toshi332\Dropbox\Test3\Test3\Test3\bin\x86\Debug\Content\Font.xnb
+C:\Users\Toshi332\Dropbox\Test3\Test3\Test3\bin\x86\Debug\Test3.exe
+C:\Users\Toshi332\Dropbox\Test3\Test3\Test3\bin\x86\Debug\Test3.pdb
+C:\Users\Toshi332\Dropbox\Test3\Test3\Test3\bin\x86\Debug\VisualEffects.dll
+C:\Users\Toshi332\Dropbox\Test3\Test3\Test3\bin\x86\Debug\VisualEffects.pdb
+C:\Users\Toshi332\Dropbox\Test3\Test3\Test3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Toshi332\Dropbox\Test3\Test3\Test3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Toshi332\Dropbox\Test3\Test3\Test3\obj\x86\Debug\Test3.exe
+C:\Users\Toshi332\Dropbox\Test3\Test3\Test3\obj\x86\Debug\Test3.pdb
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Test3\Test3\Test3\bin\x86\Debug\Content\particle.xnb
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Test3\Test3\Test3\bin\x86\Debug\Content\down.xnb
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Test3\Test3\Test3\bin\x86\Debug\Content\up.xnb
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Test3\Test3\Test3\bin\x86\Debug\Content\pix.xnb
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Test3\Test3\Test3\bin\x86\Debug\Content\button.xnb
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Test3\Test3\Test3\bin\x86\Debug\Content\down2.xnb
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Test3\Test3\Test3\bin\x86\Debug\Content\Font.xnb
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Test3\Test3\Test3\bin\x86\Debug\VisualEffects.dll
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Test3\Test3\Test3\bin\x86\Debug\VisualEffects.pdb
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Test3\Test3\Test3\obj\x86\Debug\Test3.csprojResolveAssemblyReference.cache
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Test3\Test3\Test3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Test3\Test3\Test3\bin\x86\Debug\Particle Tester.exe
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Test3\Test3\Test3\bin\x86\Debug\Particle Tester.pdb
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Test3\Test3\Test3\obj\x86\Debug\Particle Tester.exe
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Test3\Test3\Test3\obj\x86\Debug\Particle Tester.pdb
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Particle\Test3\Test3\Test3\bin\x86\Debug\Content\particle.xnb
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Particle\Test3\Test3\Test3\bin\x86\Debug\Content\down.xnb
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Particle\Test3\Test3\Test3\bin\x86\Debug\Content\up.xnb
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Particle\Test3\Test3\Test3\bin\x86\Debug\Content\pix.xnb
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Particle\Test3\Test3\Test3\bin\x86\Debug\Content\button.xnb
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Particle\Test3\Test3\Test3\bin\x86\Debug\Content\down2.xnb
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Particle\Test3\Test3\Test3\bin\x86\Debug\Content\Font.xnb
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Particle\Test3\Test3\Test3\bin\x86\Debug\Particle Tester.exe
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Particle\Test3\Test3\Test3\bin\x86\Debug\Particle Tester.pdb
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Particle\Test3\Test3\Test3\bin\x86\Debug\VisualEffects.dll
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Particle\Test3\Test3\Test3\bin\x86\Debug\VisualEffects.pdb
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Particle\Test3\Test3\Test3\obj\x86\Debug\Test3.csprojResolveAssemblyReference.cache
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Particle\Test3\Test3\Test3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Particle\Test3\Test3\Test3\obj\x86\Debug\Particle Tester.exe
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Particle\Test3\Test3\Test3\obj\x86\Debug\Particle Tester.pdb
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Particle\Test3\Test3\Test3\bin\x86\Debug\Content\particle.xnb
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Particle\Test3\Test3\Test3\bin\x86\Debug\Content\down.xnb
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Particle\Test3\Test3\Test3\bin\x86\Debug\Content\up.xnb
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Particle\Test3\Test3\Test3\bin\x86\Debug\Content\pix.xnb
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Particle\Test3\Test3\Test3\bin\x86\Debug\Content\button.xnb
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Particle\Test3\Test3\Test3\bin\x86\Debug\Content\down2.xnb
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Particle\Test3\Test3\Test3\bin\x86\Debug\Content\Font.xnb
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Particle\Test3\Test3\Test3\bin\x86\Debug\Particle Tester.exe
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Particle\Test3\Test3\Test3\bin\x86\Debug\Particle Tester.pdb
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Particle\Test3\Test3\Test3\bin\x86\Debug\VisualEffects.dll
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Particle\Test3\Test3\Test3\bin\x86\Debug\VisualEffects.pdb
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Particle\Test3\Test3\Test3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Particle\Test3\Test3\Test3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Particle\Test3\Test3\Test3\obj\x86\Debug\Particle Tester.exe
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Test\Particle\Test3\Test3\Test3\obj\x86\Debug\Particle Tester.pdb
