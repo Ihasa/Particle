@@ -14,6 +14,12 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+obj/
+bin/
+*.suo
+*.user
+
+
 # =========================
 # Operating System Files
 # =========================
@@ -26,7 +32,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
+
 
 # Thumbnails
 ._*
